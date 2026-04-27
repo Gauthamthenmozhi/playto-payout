@@ -1,0 +1,8 @@
+django>=5.2
+djangorestframework
+celery[redis]
+redis
+django-cors-headers
+psycopg2-binary
+dj-database-url
+gunicorn

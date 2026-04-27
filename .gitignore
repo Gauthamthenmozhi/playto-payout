@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.sqlite3
+celerybeat-schedule.*
+.DS_Store
+node_modules/
+frontend/build/
