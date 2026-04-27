@@ -1,7 +1,6 @@
 databases:
   - name: playto-db
     databaseName: playto_db
-    user: postgres
     plan: free
 
 services:
